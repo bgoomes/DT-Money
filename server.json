@@ -1,0 +1,116 @@
+{
+  "transactions": [
+    {
+      "id": "2732",
+      "description": "Recarga Caju",
+      "price": 572,
+      "category": "Caju",
+      "type": "income",
+      "createdAt": "2024-01-31T20:20:18.553Z"
+    },
+    {
+      "id": "36f7",
+      "description": "Ofertão",
+      "price": 42,
+      "category": "Alimentação Caju",
+      "type": "outcome",
+      "createdAt": "2024-01-31T20:21:59.877Z"
+    },
+    {
+      "id": "f06c",
+      "description": "Mercado Guaruja",
+      "price": 10,
+      "category": "Alimentação Caju",
+      "type": "outcome",
+      "createdAt": "2024-01-31T20:22:29.920Z"
+    },
+    {
+      "id": "b05c",
+      "description": "Rafa sushi",
+      "price": 61,
+      "category": "Ifood",
+      "type": "outcome",
+      "createdAt": "2024-01-31T20:22:51.177Z"
+    },
+    {
+      "id": "ed4e",
+      "description": "Ofertão",
+      "price": 51,
+      "category": "Alimentação Caju",
+      "type": "outcome",
+      "createdAt": "2024-01-31T20:23:14.157Z"
+    },
+    {
+      "id": "5195",
+      "description": "Mercado Guaruja",
+      "price": 19,
+      "category": "Alimentação Caju",
+      "type": "outcome",
+      "createdAt": "2024-01-31T20:28:43.826Z"
+    },
+    {
+      "id": "d122",
+      "description": "Pix Mãe",
+      "price": 50,
+      "category": "Pix",
+      "type": "income",
+      "createdAt": "2024-01-31T20:29:31.992Z"
+    },
+    {
+      "id": "2e46",
+      "description": "Gasolina",
+      "price": 50,
+      "category": "Locomoção",
+      "type": "outcome",
+      "createdAt": "2024-01-31T20:29:58.706Z"
+    },
+    {
+      "id": "f9c2",
+      "description": "Zaffari",
+      "price": 300,
+      "category": "Alimentação Caju",
+      "type": "outcome",
+      "createdAt": "2024-02-01T13:31:51.655Z"
+    },
+    {
+      "id": "7821",
+      "description": "Zaffari",
+      "price": 290,
+      "category": "Alimentação ",
+      "type": "outcome",
+      "createdAt": "2024-02-01T13:32:21.676Z"
+    },
+    {
+      "id": "2ef8",
+      "description": "Salario Di",
+      "price": 1917,
+      "category": "Pagamento",
+      "type": "income",
+      "createdAt": "2024-02-01T13:32:51.135Z"
+    },
+    {
+      "description": "Auxilio Faculdade",
+      "price": 600,
+      "category": "Recebido Faculdade",
+      "type": "income",
+      "createdAt": "2024-02-02T12:23:55.692Z",
+      "id": "t41oIqf"
+    },
+    {
+      "description": "Faculdade",
+      "price": 318,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2024-02-02T12:24:12.749Z",
+      "id": "oN0Pw0m"
+    },
+    {
+      "description": "Mega Comrpa",
+      "price": 303,
+      "category": "Moradia",
+      "type": "outcome",
+      "createdAt": "2024-02-03T23:39:34.165Z",
+      "id": "Tpnuq56"
+    }
+  ]
+}
